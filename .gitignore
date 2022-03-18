@@ -1,0 +1,5 @@
+# personal files
+workout_log.*
+
+# Jupyter Notebook
+.ipynb_checkpoints
